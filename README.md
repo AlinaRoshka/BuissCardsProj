@@ -28,6 +28,10 @@ This is the client-side application for the Buiss Cards project. It is built wit
 3. View and manage your card collection.
 4. Explore different features of the app and enjoy!
 
+User details for login:
+email:123@gmail.com
+password:12345678
+
 ## Technologies Used
 
 - React: A JavaScript library for building user interfaces.
